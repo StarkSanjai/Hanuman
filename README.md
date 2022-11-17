@@ -1,3 +1,3 @@
 Hanuman
 
-Drawing Hanuman Man With Python Turtle
+Drawing Hanuman  With Python Turtle
